@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a Student and Developer.<br>🌱 I’m currently learning Frontend development and DSA.
+🎓I'm a Student and Developer.<br>🌱 I’m currently learning Backend development and DSA.
 
 
 ## 🌐 Socials:
